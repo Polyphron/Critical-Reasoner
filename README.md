@@ -70,7 +70,7 @@ The output is structured for clarity:
 
 ## Usage
 
-Copy the contents of the `critical_reasoner_v2_prompt.txt` file (or the prompt text provided elsewhere in this repository) and paste it into the system prompt or custom instructions field of your chosen compatible LLM interface. Then, provide the news article or text you want analyzed as user input.
+Copy the contents of the `Critical Reasoner v2.0.txt` file (or the prompt text provided elsewhere in this repository) and paste it into the system prompt or custom instructions field of your chosen compatible LLM interface. Then, provide the news article or text you want analyzed as user input.
 
 ## Potential Applications
 
